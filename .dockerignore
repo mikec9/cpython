@@ -1,0 +1,8 @@
+Dockerfile
+.dockerignore
+.git
+.gitignore
+.github
+.vscode
+.devcontainer
+.azure-pipelines
